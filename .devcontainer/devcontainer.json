@@ -1,0 +1,15 @@
+{
+  "name": "Zig Data Structures",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ziglang.vscode-zig",
+        "vadimcn.vscode-lldb"
+      ]
+    }
+  }
+}
