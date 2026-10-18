@@ -1,0 +1,11 @@
+# Zig build artifacts and caches
+zig-out/
+zig-cache/
+.zig-cache/
+
+# Editor and operating-system temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
